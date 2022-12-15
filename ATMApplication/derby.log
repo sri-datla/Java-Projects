@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 14 20:03:47 PST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0185-13f3-df05-000007889b98 
+on database directory /Users/chaitu/git/ATMApplication/ATM_Application/atmdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/Users/chaitu/Desktop/Douglas/Sem2/JAVA/CSIS2175/lect11/lib/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.4.1+1
+user.dir=/Users/chaitu/git/ATMApplication/ATM_Application
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
