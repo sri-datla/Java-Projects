@@ -2,10 +2,10 @@ Project 1 -
 ATM Application
 
 Project 2 - 
-Shopping Application
+Hunting Simulator
 
 Project 3 - 
-Hunting Simulator
+Shopping Application
 
 Project 4 - 
 Sudoku
