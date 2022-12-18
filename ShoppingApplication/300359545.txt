@@ -1,0 +1,8 @@
+These are the items you have selected: 
+Egg , 4.99
+Apple , 2.99
+Toothpaste , 2.99
+
+Your total price is $10.97
+Amount to pay after applying discount is: $9.08 and your new balance is $1.42
+Thank you for shopping with us!
